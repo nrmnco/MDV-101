@@ -1,0 +1,13 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "--assert -I./rtl --Wall --cc ./rtl/alu.v --exe ./test/alu/alu_tb.cpp"
+S   7892640   793392  1741351773    59233723  1598506306           0 "/usr/bin/verilator_bin"
+T      5790  4590553  1742654391   936458404  1742654391   936458404 "obj_dir/Valu.cpp"
+T      2508  4590551  1742654391   935458383  1742654391   935458383 "obj_dir/Valu.h"
+T      1761  4590555  1742654391   936458404  1742654391   936458404 "obj_dir/Valu.mk"
+T      1657  4590552  1742654391   935458383  1742654391   935458383 "obj_dir/Valu__Slow.cpp"
+T       529  4590549  1742654391   935458383  1742654391   935458383 "obj_dir/Valu__Syms.cpp"
+T       767  4590550  1742654391   935458383  1742654391   935458383 "obj_dir/Valu__Syms.h"
+T       219  4590556  1742654391   936458404  1742654391   936458404 "obj_dir/Valu__ver.d"
+T         0        0  1742654391   936458404  1742654391   936458404 "obj_dir/Valu__verFiles.dat"
+T      1538  4590554  1742654391   936458404  1742654391   936458404 "obj_dir/Valu_classes.mk"
+S       505  4462432  1742654128    71045646  1742654128    71045646 "rtl/alu.v"
