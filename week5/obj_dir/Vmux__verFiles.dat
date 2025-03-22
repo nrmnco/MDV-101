@@ -1,0 +1,13 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "--assert -I./rtl --Wall --cc ./rtl/mux.v --exe ./test/mux/mux_tb.cpp"
+S   7892640   793392  1741351773    59233723  1598506306           0 "/usr/bin/verilator_bin"
+T      4754  4476151  1742091578     4477442  1742091578     4477442 "obj_dir/Vmux.cpp"
+T      2644  4476149  1742091578     3477446  1742091578     3477446 "obj_dir/Vmux.h"
+T      1761  4476153  1742091578     4477442  1742091578     4477442 "obj_dir/Vmux.mk"
+T      1841  4476150  1742091578     3477446  1742091578     3477446 "obj_dir/Vmux__Slow.cpp"
+T       529  4476147  1742091578     3477446  1742091578     3477446 "obj_dir/Vmux__Syms.cpp"
+T       767  4476148  1742091578     3477446  1742091578     3477446 "obj_dir/Vmux__Syms.h"
+T       219  4476154  1742091578     4477442  1742091578     4477442 "obj_dir/Vmux__ver.d"
+T         0        0  1742091578     4477442  1742091578     4477442 "obj_dir/Vmux__verFiles.dat"
+T      1538  4476152  1742091578     4477442  1742091578     4477442 "obj_dir/Vmux_classes.mk"
+S       490  4475668  1742074084    22886214  1742074084    22886214 "rtl/mux.v"
